@@ -1,0 +1,10 @@
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClientTests\bin\Debug\RestClientTests.dll
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClientTests\bin\Debug\RestClientTests.pdb
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClientTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClientTests\bin\Debug\RestClient.exe
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClientTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClientTests\bin\Debug\RestClient.pdb
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClientTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClientTests\obj\Debug\RestClientTests.csprojResolveAssemblyReference.cache
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClientTests\obj\Debug\RestClientTests.dll
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClientTests\obj\Debug\RestClientTests.pdb

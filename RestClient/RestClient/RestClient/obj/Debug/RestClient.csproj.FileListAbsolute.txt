@@ -1,0 +1,26 @@
+c:\users\johnny\documents\visual studio 2015\Projects\RestClient\RestClient\bin\Debug\RestClient.exe.config
+c:\users\johnny\documents\visual studio 2015\Projects\RestClient\RestClient\bin\Debug\RestClient.exe
+c:\users\johnny\documents\visual studio 2015\Projects\RestClient\RestClient\bin\Debug\RestClient.pdb
+c:\users\johnny\documents\visual studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.csprojResolveAssemblyReference.cache
+c:\users\johnny\documents\visual studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.Properties.Resources.resources
+c:\users\johnny\documents\visual studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.csproj.GenerateResource.Cache
+c:\users\johnny\documents\visual studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.exe
+c:\users\johnny\documents\visual studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.pdb
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.GUI.resources
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.AddNew.resources
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\johnny\Documents\Visual Studio 2015\Projects\RestClient\RestClient\obj\Debug\RestClient.Resources.resources
+D:\Skola\KOPR\RestClient\RestClient\RestClient\bin\Debug\RestClient.exe.config
+D:\Skola\KOPR\RestClient\RestClient\RestClient\obj\Debug\RestClient.exe
+D:\Skola\KOPR\RestClient\RestClient\RestClient\obj\Debug\RestClient.pdb
+D:\Skola\KOPR\RestClient\RestClient\RestClient\bin\Debug\RestClient.exe
+D:\Skola\KOPR\RestClient\RestClient\RestClient\bin\Debug\RestClient.pdb
+D:\Skola\KOPR\RestClient\RestClient\RestClient\bin\Debug\Newtonsoft.Json.dll
+D:\Skola\KOPR\RestClient\RestClient\RestClient\bin\Debug\Newtonsoft.Json.xml
+D:\Skola\KOPR\RestClient\RestClient\RestClient\obj\Debug\RestClient.csprojResolveAssemblyReference.cache
+D:\Skola\KOPR\RestClient\RestClient\RestClient\obj\Debug\RestClient.AddNew.resources
+D:\Skola\KOPR\RestClient\RestClient\RestClient\obj\Debug\RestClient.GUI.resources
+D:\Skola\KOPR\RestClient\RestClient\RestClient\obj\Debug\RestClient.Properties.Resources.resources
+D:\Skola\KOPR\RestClient\RestClient\RestClient\obj\Debug\RestClient.Resources.resources
+D:\Skola\KOPR\RestClient\RestClient\RestClient\obj\Debug\RestClient.csproj.GenerateResource.Cache

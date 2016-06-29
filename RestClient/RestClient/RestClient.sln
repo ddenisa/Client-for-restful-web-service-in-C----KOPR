@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestClient", "RestClient\RestClient.csproj", "{95C3AACA-E087-42F7-8309-9858440B000E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestClientTests", "RestClientTests\RestClientTests.csproj", "{F9945BDB-140D-48E8-8921-23A949898F71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C3AACA-E087-42F7-8309-9858440B000E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C3AACA-E087-42F7-8309-9858440B000E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C3AACA-E087-42F7-8309-9858440B000E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C3AACA-E087-42F7-8309-9858440B000E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9945BDB-140D-48E8-8921-23A949898F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9945BDB-140D-48E8-8921-23A949898F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9945BDB-140D-48E8-8921-23A949898F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9945BDB-140D-48E8-8921-23A949898F71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
